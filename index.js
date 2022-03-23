@@ -29,3 +29,8 @@ app.listen(5000)
 
 
 // use postman for testing the end points
+// app.post("/multiple", upload.array("images", 5), (req, res) => {
+// multiple is the end point and the images is the key that we need to give to the files
+// this will accept a files size of 5
+
+
